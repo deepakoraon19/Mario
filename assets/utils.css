@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.log {
+    display: block;
+    transition: right 2s;
+    -webkit-transition: right 2s;
+    -moz-transition: right 2s;
+    -ms-transition: right 2s;
+    -o-transition: right 2s;
+}
+.mario {
+    display: block;
+    transition: bottom 300ms;
+    -webkit-transition: bottom 300ms;
+    -moz-transition: bottom 300ms;
+    -ms-transition: bottom 300ms;
+    -o-transition: bottom 300ms;
+}
